@@ -49,6 +49,8 @@ const App = () => {
             <SolBalance></SolBalance>
 
             <SentTransaction></SentTransaction>
+            
+            <SentTransaction></SentTransaction>
           </div>
         </WalletModalProvider>
       </WalletProvider>
